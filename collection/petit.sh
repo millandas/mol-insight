@@ -6,7 +6,7 @@ Get-Content run.txt | ForEach-Object {
         Write-Host "Processing $srr ..."
         prefetch $srr
         fastq-dump $srr `
-            -X 100000 `
+            -X 1000000 `
             --split-files `
             --gzip `
             --outdir fastq_subset
