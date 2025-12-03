@@ -11,3 +11,7 @@ Finally, you have to run the notebooks in this order :
  2) dataset(1).ipynb
  3) EDA(3).ipynb
  4) prediction(2).ipynb
+
+
+If you want to work only with the final cleaned and merged dataset that we used for the EDA and for the prediction, here is the link from our personal Drive. 
+link :  https://drive.google.com/file/d/1UZxEMRg8EQXLOXlyAwYOWKLaV_hpcjsC/view?usp=sharing
